@@ -1,0 +1,8 @@
+CREATE DATABASE BobaCool
+
+CREATE TABLE TabelMenu(
+  KodeMenu CHAR(5),
+  NamaMenu VARCHAR(100),
+  HargaMenu VARCHAR(30),
+  StockMenu INT
+)
